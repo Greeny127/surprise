@@ -1,5 +1,5 @@
 $(function () {
-  let audio = new Audio("/music/background.mp3");
+  let audio = new Audio("music/background.mp3");
 
   audio.volume = 0;
   audio.loop = true;
